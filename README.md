@@ -5,7 +5,7 @@ This is a 3D infinite runner game developed in Unity using various animations. T
 
 ## Technologies
 - **Unity 3D** (version 202x.x.x)
-- **C#** (version 3.0)
+- **C#** (version 6.0)
 - **Git Large File Storage (LFS)** for managing large files
 
 ## Installation
