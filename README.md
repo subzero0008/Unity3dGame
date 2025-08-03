@@ -1,5 +1,4 @@
-# Unity3D Infinite Runner Game
-
+# Timmy's Adventure Game
 ## Description
 This is a 3D infinite runner game developed in Unity using various animations. The project was created as part of a Computer Graphics course. The game features two main scenes where the player moves forward, collects coins, and avoids obstacles. The primary goal is to collect as many coins as possible. As the run progresses, the player's speed increases, making it more difficult to avoid obstacles.
 
